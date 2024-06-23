@@ -3,3 +3,6 @@ add file
 thay doi thong tin 
 
 tieeps tuc them noi dung moi
+
+
+thay doi tren host
